@@ -1,0 +1,7 @@
+{
+  "name": "VocalScript AI UA",
+  "description": "Високопродуктивний інструмент для транскрибації голосу в текст на базі Gemini Live API зі зручним інтерфейсом та функцією копіювання.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
